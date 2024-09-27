@@ -8,6 +8,7 @@ def partition(l, r, nums):
             ptr += 1
     # Finally swapping the last element with the pointer indexed number
     nums[ptr], nums[r] = nums[r], nums[ptr]
+    # asdfasdfsadfaskjd;kfljadjfk;asjdfjad;jdlf;askl;djfkl
     return ptr
  
 # With quicksort() function, we will be utilizing the above code to obtain the pointer
